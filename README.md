@@ -1,1 +1,3 @@
-# Hi World! 
+# Hi World!
+
+Git is ugly
